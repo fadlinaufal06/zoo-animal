@@ -1,0 +1,42 @@
+.container-paling-luar{
+    margin: 5em 0 5rem 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-baris{
+    height: 20em;
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-kolom{
+    width: 50%;
+    height:100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.image-dalam{
+    width: 100%;
+    height: 100%;
+}
+
+.container-text-judul-bagian-tengah{
+    text-align: center;
+}
+
+.title-tengah{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 39px;
+}
+
+.container{}

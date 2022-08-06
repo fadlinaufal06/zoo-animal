@@ -1,0 +1,47 @@
+.carouselItem{
+    background: linear-gradient(119.72deg, #613476 0%, #141D6B 100%)
+}
+
+
+
+.bigContainer{
+    display: flex;
+    height: 30em;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.image-kanan{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.image-dalem{
+    width: 20em;
+    height: auto;
+}
+
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    color: white;
+}
+.text-judul{
+    font-family: "normal" ;
+    font-weight: 800;
+    text-transform: capitalize;
+    font-size: 36px;
+}
+
+.text-bawah{
+    padding-left:12px;
+    padding-right:12px;
+}
+
+
