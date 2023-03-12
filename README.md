@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# FRONTEND CODING CHALLENGE 
+
+This is a zoo Website, This challenge was for DDB Telkom Indonesia Internship 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
